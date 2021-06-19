@@ -1,0 +1,14 @@
+.main-dashboard {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 500px;
+    height: fit-content;
+    margin: auto;
+    padding: 100px;
+    background-color: #AEC6CF;
+    border-radius: 90px;
+    text-align: left;
+  }

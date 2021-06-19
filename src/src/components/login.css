@@ -1,0 +1,31 @@
+.main-login {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 500px;
+  height: fit-content;
+  margin: auto;
+  padding: 115px;
+  background-color: #AEC6CF;
+  border-radius: 90px;
+  text-align: left;
+}
+.checkboxes {
+  display: inline-flex;
+  width: 100%;
+}
+.student-checkbox {
+  flex-wrap: nowrap !important;
+}
+.input-group-text{
+    background-color: #AEC6CF !important;
+    border: 1px solid #AEC6CF !important;
+}
+.errorclass{
+  color: red
+}
+.loginbutton{
+  display: block !important;
+}

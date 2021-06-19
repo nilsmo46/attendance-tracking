@@ -1,0 +1,38 @@
+.list-div {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 500px;
+  height: fit-content;
+  margin: auto;
+  padding: 115px;
+  background-color: #aec6cf;
+  border-radius: 90px;
+  text-align: left;
+}
+.table-div {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  padding: 115px;
+  background-color: #aec6cf;
+  border-radius: 90px;
+  text-align: left;
+}
+.clickBox {
+  cursor: pointer;
+}
+.selected {
+  text-decoration: underline;
+  font-weight: bold;
+}
+.teacher-div {
+  display: flex;
+  flex-direction: row;
+  margin-top: 5%;
+}
